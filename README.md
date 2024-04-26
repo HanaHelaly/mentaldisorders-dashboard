@@ -24,5 +24,7 @@
 
 ### Project Link: [Mental Health Analytics Dashboard](https://mental-app-0be893092142.herokuapp.com/)
 
+### Dataset: [Mental Health Dataset](https://www.kaggle.com/datasets/amirhoseinmousavian/mental-health?resource=download&select=depressive-disorders-prevalence-vs-gdp-per-capita.csv/)
+
 
 Inspired by: @Tanguy9862
