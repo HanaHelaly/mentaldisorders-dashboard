@@ -16,6 +16,11 @@
 ### Tools:
 - Dash Core Components
 - Dash Bootstrap Components
+- Plotly Express
+- Pandas
+- Numpy
+- Dash
+- Heroku
 
 ### Project Link: [Mental Health Analytics Dashboard](https://mental-app-0be893092142.herokuapp.com/)
 
